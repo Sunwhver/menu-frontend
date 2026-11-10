@@ -1,10 +1,12 @@
-import { SpotDialog } from "./cases/spots/components/spot-dialog"
+import { CategoryNav } from "./cases/spots/categories/components/category-nav"
+import { Header } from "./cases/spots/components/spot-button"
 
 function App() {
   
   return (
     <>
-      <SpotDialog></SpotDialog>
+      <Header/>
+      <CategoryNav/>
     </>
   )
 }
