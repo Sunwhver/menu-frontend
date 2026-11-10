@@ -1,5 +1,5 @@
-import { CategoryNav } from "./cases/spots/categories/components/category-nav"
-import { Header } from "./cases/spots/components/spot-button"
+import { CategoryNav } from "./cases/categories/components/category-nav"
+import { Header } from "./components/layouts/header"
 
 function App() {
   
